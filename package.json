@@ -1,0 +1,23 @@
+{
+  "name": "voice-assistant-mock-server",
+  "version": "1.0.0",
+  "description": "## QuickStart",
+  "main": "populate-mock-server.js",
+  "dependencies": {
+    "mockserver-client": "^5.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PillarTechnology/voice-assistant-mock-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PillarTechnology/voice-assistant-mock-server/issues"
+  },
+  "homepage": "https://github.com/PillarTechnology/voice-assistant-mock-server#readme"
+}
