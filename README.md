@@ -5,7 +5,7 @@ This server was intended to run on AWS EC2 instance. With docker image of mockse
 ## Seting up EC2 instance
 
 - Log in to your AWS Console    
-http://go.accenture.com/aws_login (you might need to be added for access)
+
 - Find EC2 service
     - Create an instance with Ubuntu and default settings
     - Name your instance
